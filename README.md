@@ -16,3 +16,5 @@ docker run -p 80:80 pythonsample:latest
 ```
 docker run -d -p 80:80 pythonsample:latest
 ```
+
+You can now test your application using http://localhost on your preferred browser. You’ve run your Python app inside a Docker container.
